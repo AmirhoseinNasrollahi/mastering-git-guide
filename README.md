@@ -38,7 +38,7 @@ and my work bridges medical imaging, AI-driven diagnostics, and reproducible res
 | `README.md` | Main overview of this repository |
 
 ### Key Materials
-- ✅ **Markdown Guide:** [`docs/git_guide.md`](docs/git_guide.md)  
+-✅ **Markdown Guide:** [git_guide.md](git_guide.md)
   (Covers Git fundamentals, branching, merging, rebase, conflict resolution, and collaboration models)
 - 📜 **Certificate:** Proof of completion (FaraDars ID: **68976AB5**)  
   [Verify Certificate](https://faradars.org/verify/68976AB5)
